@@ -1,3 +1,7 @@
 # -ChromeBookWebDesktop
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-qnhb3c)
+WebBase Desktop
+
+for ChromeBook
+
+as localDataBase
